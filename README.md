@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Carlos Almada
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning React, i'm a php, python, django developer
+- 👀 I’m interested in learning and building new web sites.
+- 🌱 I’m currently learning React, i'm a php, javascript, python, django developer
 - 💞️ I’m looking to collaborate on React with django
 - 📫 How to reach me carlosalmada84@gmail.com
 
